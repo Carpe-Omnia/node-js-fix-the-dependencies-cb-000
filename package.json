@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "five": "^0.8.0",
-    "hello-flatiron": "learn-co-curriculum/node-js-hello-flatiron",
     "mocha-multi": "^1.0.1",
+    "hello-flatiron": "learn-co-curriculum/node-js-hello-flatiron",
     "pluggable-flatiron": "learn-co-curriculum/node-js-pluggable-flatiron#14f3c7a"
   }
 }
