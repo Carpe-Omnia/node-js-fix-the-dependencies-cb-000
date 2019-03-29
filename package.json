@@ -27,9 +27,9 @@
     "mocha": "^6.0.2"
   },
   "dependencies": {
-    "pluggable-flatiron": "learn-co-curriculum/node-js-pluggable-flatiron#14f3c7a",
     "five": "^0.8.0",
     "hello-flatiron": "learn-co-curriculum/node-js-hello-flatiron",
-    "mocha-multi": "^1.0.1"
+    "mocha-multi": "^1.0.1",
+    "pluggable-flatiron": "learn-co-curriculum/node-js-pluggable-flatiron#14f3c7a"
   }
 }
