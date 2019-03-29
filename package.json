@@ -23,7 +23,8 @@
   "homepage": "https://github.com/learn-co-curriculum/node-js-fix-the-dependencies#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "chai-spies": "^0.7.1"
+    "chai-spies": "^0.7.1",
+    "mocha": "^6.0.2"
   },
   "dependencies": {
     "five": "^0.8.0",
