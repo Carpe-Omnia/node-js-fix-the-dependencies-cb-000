@@ -26,5 +26,8 @@
     "chai-spies": "^0.7.1",
     "mocha": "^6.0.2",
     "mocha-multi": "^1.0.1"
+  },
+  "dependencies": {
+    "five": "^0.8.0"
   }
 }
