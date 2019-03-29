@@ -5,15 +5,15 @@
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2019-03-29T19:41:16.353Z",
-    "end": "2019-03-29T19:41:16.361Z",
-    "duration": 8
+    "start": "2019-03-29T19:41:39.830Z",
+    "end": "2019-03-29T19:41:39.836Z",
+    "duration": 6
   },
   "tests": [
     {
       "title": "logs the result of calling helloFlatiron()",
       "fullTitle": "lib logs the result of calling helloFlatiron()",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -31,7 +31,7 @@
     {
       "title": "logs the result of calling helloFlatiron()",
       "fullTitle": "lib logs the result of calling helloFlatiron()",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
